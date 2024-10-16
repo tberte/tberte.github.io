@@ -11,6 +11,7 @@ publication_types:
 - article-journal
 publication: '*Child Psychiatry &amp; Human Development*'
 doi: 10.1007/s10578-021-01304-5
+featured: true
 links:
 - name: URL
   url: http://dx.doi.org/10.1007/s10578-021-01304-5

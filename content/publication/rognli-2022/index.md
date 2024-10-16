@@ -13,6 +13,7 @@ publication_types:
 - article-journal
 publication: '*Journal of Child Psychology and Psychiatry*'
 doi: 10.1111/jcpp.13662
+featured: true
 links:
 - name: URL
   url: http://dx.doi.org/10.1111/jcpp.13662
