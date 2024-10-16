@@ -13,12 +13,12 @@ main:
   - name: Academic Portifolio
     url: posts/
     weight: 13
-  - name: Experience
-    url: experience/
-    weight: 20
   - name: Data Science Portifolio
     url: projects/
     weight: 30
+  - name: Experience
+    url: experience/
+    weight: 20
 #  - name: Tutorials
 #    url: teaching/
 #    weight: 40
