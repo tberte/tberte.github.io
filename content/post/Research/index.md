@@ -1,6 +1,6 @@
 ---
-title: ✅ Manage your projects
-summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
+title: Research
+summary: My research experience
 date: 2023-10-23
 authors:
   - admin
@@ -11,84 +11,16 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
+# Research
 
-## Ideation
+## Experience:
+I have extensive experience in project planning, overseeing all stages from initial design to execution, ensuring alignment with project goals and timelines. My work in data collection includes both qualitative and quantitative approaches, carefully designed to capture high-quality and meaningful data. I am proficient in academic writing with multiple projects resulting in reports, peer-reviewed publications, and contributions to grant applications. My experience in grant-writing has involved drafting proposals, collaborating with multidisciplinary teams, and securing funding for research initiatives. My statistical competence includes a wide range of methods, allowing me to effectively analyze and interpret complex datasets.
 
-Hugo Blox supports a Markdown extension for mindmaps.
+## Findings:
+Throughout my projects, I have consistently generated findings that have advanced the understanding of key research areas. These findings often highlight novel insights and practical applications, helping shape recommendations for both academic and practical communities.
 
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
+## Methods used:
+I have applied various Bayesian methods to improve parameter estimation and model uncertainty. My expertise includes structural equation modeling (SEM) for understanding complex relationships between variables, and frequentist approaches for hypothesis testing and estimation. Additionally, I have worked with network analysis to explore relational data, and growth-curve modeling to examine changes over time within longitudinal datasets.
 
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
-
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-</code>
-</pre>
-</div>
-
-renders as
-
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-
-## Diagrams
-
-Hugo Blox supports the _Mermaid_ Markdown extension for diagrams.
-
-An example **Gantt diagram**:
-
-    ```mermaid
-    gantt
-    section Section
-    Completed :done,    des1, 2014-01-06,2014-01-08
-    Active        :active,  des2, 2014-01-07, 3d
-    Parallel 1   :         des3, after des1, 1d
-    Parallel 2   :         des4, after des1, 1d
-    Parallel 3   :         des5, after des3, 1d
-    Parallel 4   :         des6, after des4, 1d
-    ```
-
-renders as
-
-```mermaid
-gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-```
-
-## Todo lists
-
-You can even write your todo lists in Markdown too:
-
-```markdown
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
-```
-
-renders as
-
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
-
-## Did you find this page helpful? Consider sharing it 🙌
+## Interests:
+I am particularly interested in methodological innovations that bridge the gap between theoretical models and real-world applications. My areas of focus include improving the efficacy of interventions through advanced modeling techniques and refining statistical methods to provide clearer interpretations of psychological and behavioral data.
