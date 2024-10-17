@@ -14,3 +14,6 @@ Since 2016, I have worked as a clinical psychologist, specializing in the assess
 
 # Data Science
 As a freelance data scientist and statistician, I apply my expertise in data analysis, statistical modeling, and predictive analytics across various domains. My work involves transforming raw data into actionable insights, using both advanced statistical techniques and machine learning to solve complex problems and support decision-making processes.
+
+# academic peer reviewer
+I have peer reviewed several articles
