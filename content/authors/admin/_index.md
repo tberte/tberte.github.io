@@ -58,18 +58,18 @@ education:
     date_end: 2027-12-31
     summary: |
       Ongoing education
-    button:
-      text: ''
-      url: ''
+#    button:
+#      text: ''
+#      url: ''
   - area: PhD Psychology
     institution: University of Bergen
     date_start: 2018-01-01
     date_end: 2022-12-31
     summary: |
       Thesis on treatment of anxiety in youth
-    button:
-      text: ''
-      url: ''
+#    button:
+#      text: ''
+#      url: ''
   - area: Master of Psychology
     institution: University of Aalborg
     date_start: 2011-01-01
