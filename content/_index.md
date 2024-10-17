@@ -38,6 +38,7 @@ sections:
         I'm a senior researcher at the Hospital of Southern Norway.
 
         I apply a range of  quantitative methods to comprehensively investigate the effective treatments for anxiety.
+# 5-7 sentences to summarize expertise in discipline, year of experience in these are and notwoerthy research findings, key acheivements and publications
     design:
       columns: '1'
   - block: collection
