@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Posts
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Academic Portifolio
+      text: A place to gather information for CV.
       filters:
         folders:
           - post
