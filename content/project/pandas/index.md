@@ -1,13 +1,8 @@
 ---
-title: Pandas
+title: Certified Data Scientist
 date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+external_link: https://www.datacamp.com/certificate/DS0024804495161
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
-
-<!--more-->
+# Certified Data Scientist
